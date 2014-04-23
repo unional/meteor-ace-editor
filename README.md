@@ -16,6 +16,9 @@ This package exposes [Ace Editor](https://github.com/ajaxorg/ace) to Meteor.
 
 1. Please refer to ace [here](https://github.com/ajaxorg/ace) and [here](http://ace.c9.io)
 
+## Demo
+Check it out at [meteor-ace-editor-demo](https://github.com/unional/meteor-ace-editor-demo)
+
 ## Future plan
 Please checkout the [milestones](https://github.com/unional/meteor-ace-editor/issues/milestones) section.
 
