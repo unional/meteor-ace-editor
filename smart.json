@@ -1,0 +1,9 @@
+{
+	"name": "ace-editor",
+	"description": "Ace editor repackaged for Meteor",
+	"homepage": "https://github.com/unional/meteor-ace-editor",
+	"author": "Homa Wong",
+	"version": "0.0.1",
+	"git": "https://github.com/unional/meteor-ace-editor.git",
+	"packages": {}
+}

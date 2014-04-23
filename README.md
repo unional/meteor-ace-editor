@@ -1,4 +1,5 @@
-unite-note-raw-editor
+meteor-ace-editor
 =====================
 
-Raw editor for unite note based on ace editor
+Ace editor repackaged for Meteor
+
